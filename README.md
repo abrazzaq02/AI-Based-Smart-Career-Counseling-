@@ -267,4 +267,4 @@ Deployment:
 Built with ❤️ using Python, Streamlit, and Knowledge Representation & Reasoning
 
 </div>
-</div>
+
