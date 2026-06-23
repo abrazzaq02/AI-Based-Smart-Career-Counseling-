@@ -1,4 +1,4 @@
-# 🚀 AI-Based Smart Career Counseling Expert System
+
 
 <div align="center">
 
