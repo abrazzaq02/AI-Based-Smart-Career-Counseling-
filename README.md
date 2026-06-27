@@ -1,4 +1,14 @@
+# 🚀 AI-Based Smart Career Counseling Expert System
 
+<div align="center">
+
+### 🧠 Intelligent Career Guidance Powered by Knowledge Representation & Reasoning (KRR)
+
+<p>
+An advanced AI-driven Expert System that analyzes user skills, interests, personality traits, strengths, and weaknesses to recommend the most suitable career path with explainable insights, skill-gap analysis, personalized roadmaps, and industry-focused guidance.
+</p>
+
+---
 
 ### ✨ Live Features
 
