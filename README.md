@@ -1,3 +1,6 @@
+# 🚀 AI-Based Smart Career Counseling Expert System
+
+<div align="center">
 
 ### 🧠 Intelligent Career Guidance Powered by Knowledge Representation & Reasoning (KRR)
 
