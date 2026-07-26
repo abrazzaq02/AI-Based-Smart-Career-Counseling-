@@ -220,32 +220,7 @@ G --> H[Final Recommendation]
 
 ---
 
-# 🛠 Technology Stack
 
-```yaml
-Frontend:
-  - Streamlit
-  - HTML/CSS
-  - JavaScript
-
-Backend:
-  - Python
-
-AI Logic:
-  - Knowledge Base
-  - Rule Engine
-  - Forward Chaining
-
-Visualization:
-  - Plotly
-  - Streamlit Charts
-
-Deployment:
-  - Streamlit Cloud
-  - GitHub
-```
-
----
 
 # 🚀 Future Enhancements
 
