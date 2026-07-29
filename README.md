@@ -63,28 +63,7 @@ The system evaluates:
 
 ---
 
-# 🧠 Knowledge Representation & Reasoning (KRR)
 
-<div align="center">
-
-```mermaid
-graph TD
-
-A[User Input]
---> B[Knowledge Base]
-
-B --> C[Inference Engine]
-
-C --> D[Rule Evaluation]
-
-D --> E[Forward Chaining]
-
-E --> F[Career Recommendation]
-
-F --> G[Skill Gap Analysis]
-
-G --> H[Career Roadmap]
-```
 
 </div>
 
