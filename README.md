@@ -41,35 +41,6 @@ The system evaluates:
 
 ---
 
-# 🎯 Core Features
-
-<div align="center">
-
-| Feature                  | Description                          |
-| ------------------------ | ------------------------------------ |
-| 🤖 Career Recommendation | AI-generated career suggestions      |
-| 📊 Match Percentage      | Compatibility score calculation      |
-| 🧠 Explainable AI        | Transparent recommendation reasoning |
-| 📈 Skill Gap Analysis    | Missing skills identification        |
-| 🛣️ Career Roadmap       | Step-by-step growth plan             |
-| 👤 Personality Analysis  | Trait-based evaluation               |
-| ⚠️ Weakness Analysis     | Areas for improvement                |
-| 🎯 Domain Filtering      | Career-specific filtering            |
-| 💰 Salary Insights       | PKR & USD salary estimates           |
-| 📜 Certifications Guide  | Recommended certifications           |
-| 💼 Job Roles Explorer    | Industry role suggestions            |
-| 🌙 Modern Dark Theme     | Premium Streamlit Interface          |
-
-</div>
-
----
-
-
-
-</div>
-
----
-
 # ⚡ AI Reasoning Architecture
 
 ### Knowledge Base
